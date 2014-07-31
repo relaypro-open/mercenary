@@ -1,0 +1,22 @@
+{
+  "name": "mercenary",
+  "version": "0.0.0",
+  "description": "JavaScript utilities.",
+  "main": "mercenary.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "util",
+    "utilities"
+  ],
+  "author": "Mike Kibbel, Bandwidth.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
