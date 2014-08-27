@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = {
-    lang: require('./lib/lang'),
-    random: require('./lib/random')
+    lang: require('./lang'),
+    promises: require('./promises'),
+    random: require('./random')
 };
