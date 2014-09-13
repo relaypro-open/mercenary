@@ -13,7 +13,10 @@
     "util",
     "utilities"
   ],
-  "author": "Mike Kibbel, Bandwidth.com",
+  "author": "Republic Wireless",
+  "contributors": [
+    "Mike Kibbel (https://github.com/skibblenybbles)"
+  ],
   "license": "MIT",
   "private": true,
   "dependencies": {
