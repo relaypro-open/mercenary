@@ -14,10 +14,6 @@
     "utilities"
   ],
   "author": "Republic Wireless",
-  "contributors": [
-    "Mike Kibbel (https://github.com/skibblenybbles)"
-  ],
-  "license": "MIT",
   "dependencies": {
     "lodash": "~2.4.0",
     "q": "~1.0.0"
